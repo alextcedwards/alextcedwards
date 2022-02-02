@@ -6,7 +6,7 @@
 
 
 ### Connect with me:
-![website](https://www.linkedin.com/in/alexedwardsdev/)
+![https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white](https://www.linkedin.com/in/alexedwardsdev/)
 ![website](https://www.instagram.com/totesalex/)
 
 
