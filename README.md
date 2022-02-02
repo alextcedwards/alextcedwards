@@ -2,7 +2,7 @@
 
 
 
-## I'm a Production Manager and Full Stack Web Developer!
+## I'm a Production Manager and Full Stack Web Developer
 
 
 
