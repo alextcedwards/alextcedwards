@@ -37,7 +37,7 @@
 ![npm](https://img.shields.io/badge/npm-2E3440?style=for-the-badge&logo=npm)
 ![Heroku](https://img.shields.io/badge/Heroku-2E3440?style=for-the-badge&logo=heroku)
 
-[![Alex's GitHub stats](https://github-readme-stats.vercel.app/api?username=alextcedwards)](https://github.com/alextcedwards/github-readme-stats)
+![Alex's GitHub stats](https://github-readme-stats.vercel.app/api?username=alextcedwards&show_icons=true&theme=dracula)
 
 
 
