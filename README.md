@@ -6,8 +6,9 @@
 
 
 ### Connect with me:
-![https://www.linkedin.com/in/alexedwardsdev/](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
-![image](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)
+[<img align="left" style="margin-right: 1.5rem" alt="Gmail" width="36px" src="assets\gmail_icon.svg.png" />][gmail]
+[<img align="left" style="margin-right: 1.5rem" alt="LinkedIn" width="36px" src="assets\linkedin.png" />][linkedin]
+<br />
 
 
 
