@@ -6,9 +6,12 @@
 
 
 ### Connect with me:
-[<img align="left" style="margin-right: 1.5rem" alt="Gmail" width="36px" src="assets\gmail_icon.svg.png" />][gmail]
-[<img align="left" style="margin-right: 1.5rem" alt="LinkedIn" width="36px" src="assets\linkedin.png" />][linkedin]
-<br />
+[website]: https://www.linkedin.com/in/alexedwardsdev/
+[website]: https://www.instagram.com/totesalex/
+
+
+
+
 <!-- Skill Badges -->
 ## Front End Skills:
 ![HTML](https://img.shields.io/badge/HTML-2E3440?style=for-the-badge&logo=html5)
