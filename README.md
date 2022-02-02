@@ -6,8 +6,8 @@
 
 
 ### Connect with me:
-[<img align="left" style="margin-right: 1.5rem" alt="Gmail" width="36px" src="assets\gmail_icon.svg.png" />][gmail]
-[<img align="left" style="margin-right: 1.5rem" alt="LinkedIn" width="36px" src="assets\linkedin.png" />][linkedin]
+[<img align="left" style="margin-right: 1.5rem" alt="Gmail" width="36px" src="	https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />][gmail]
+[<img align="left" style="margin-right: 1.5rem" alt="LinkedIn" width="36px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />][linkedin]
 <br />
 
 
