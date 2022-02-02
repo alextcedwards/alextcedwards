@@ -5,10 +5,7 @@
 ## I'm a Production Manager and Full Stack Web Developer!
 
 
-### Connect with me:
-[<img align="left" style="margin-right: 1.5rem" alt="Gmail" width="36px" src="	https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />][gmail]
-[<img align="left" style="margin-right: 1.5rem" alt="LinkedIn" width="36px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />][linkedin]
-<br />
+
 
 
 
