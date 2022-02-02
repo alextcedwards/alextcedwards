@@ -6,8 +6,8 @@
 
 
 ### Connect with me:
-[website]: https://www.linkedin.com/in/alexedwardsdev/
-[website]: https://www.instagram.com/totesalex/
+![website](https://www.linkedin.com/in/alexedwardsdev/)
+![website](https://www.instagram.com/totesalex/)
 
 
 
